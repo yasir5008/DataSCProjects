@@ -1,1 +1,1 @@
-Some Data Analyst projects
+Some tiny Data Analyst projects
